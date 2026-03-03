@@ -1,6 +1,6 @@
 # AI-erp-ticket-triaging-llm
 LLM-powered ERP support ticket triaging system using Mistral 7B
-# AI-Powered ERP Ticket Triaging System
+# AI-Powered ERP Ticket Triaging System 
 
 ## 1. Problem Understanding
 
